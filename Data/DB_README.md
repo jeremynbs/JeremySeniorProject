@@ -1,3 +1,6 @@
+Processed data can be downloaded from
+https://drive.google.com/file/d/1MedtFFS4nXDuG2bpaiSaOOjcm5OA0Ld6/view?usp=drive_link
+
 # EV Car Battery Cell Checkups Dataset
 ## Overview
 This table contains several categories of data related  to the health of the battery cells of the EV.
