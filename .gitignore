@@ -1,0 +1,17 @@
+.env
+data/dataset.db
+schema/database.db
+public/login/secret.py
+data/plots/capacity.png
+data/plots/example_capacity_raw.png
+data/plots/example_qOCV_raw.png
+data/plots/example_udds_AP1343_fft.png
+data/plots/example_udds_AP1343.png
+data/plots/example_udds.png
+public/login/client_secret_564993017604-r339b9c59bhiom8ju6i4fmeq1hnb5d5d.apps.googleusercontent.com.json
+public/login/quickstart.py
+client_secret.json
+node_modules/
+public/login/
+.idea/
+__pycache__/
